@@ -1,1 +1,1 @@
-# repo2
+Idea集成Git测试
